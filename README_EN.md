@@ -16,15 +16,15 @@ Create dramatic Windows message boxes.
 
 ### ⚙️ Features
 
--Add lines one by one
--Choose window type:
- -ℹ️ Info (blue)
- -⚠️ Warning (yellow)
- -❌ Error (red)
- -❓ Question
--Custom window title
--Russian / English interface
--Uses real Windows system message boxes
+- Add lines one by one
+- Choose window type:
+  - ℹ️ Info (bluy)
+  - ⚠️ Warning (yellow)
+  - ❌ Error (red)
+  - ❓ Question
+- Custom window title
+- Russian / English interface
+- Uses real Windows system message boxes
 
 ---
 
