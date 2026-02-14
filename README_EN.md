@@ -4,6 +4,8 @@ Create dramatic Windows message boxes.
 
 **Dramatic Windows** is a simple tool that lets you build sequences of classic Windows dialog windows with different icons (info, warning, error, question). Perfect for lyric videos and dramatic storytelling.
 
+[RU README](https://github.com/v4n4ik-8/dramatic-windows/blob/main/README.md)
+
 ---
 
 ### What is this?
